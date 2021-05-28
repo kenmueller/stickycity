@@ -10,8 +10,8 @@
 		"preview": "svelte-kit preview"
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-vercel": "^1.0.0-next.0",
-		"@sveltejs/kit": "^1.0.0-next.1",
+		"@sveltejs/adapter-vercel": "^1.0.0-next.19",
+		"@sveltejs/kit": "^1.0.0-next.109",
 		"@types/randomcolor": "^0.5.5",
 		"@typescript-eslint/eslint-plugin": "^4.25.0",
 		"@typescript-eslint/parser": "^4.25.0",
